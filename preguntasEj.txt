@@ -1,3 +1,0 @@
-Git fue diseñado por Linus Torvals y Junio Hamano. Al principio pensado para ser un motor de bajo nivel sobre el cual se pudiera escribir la interfaz de usuario. 
-Github actualmente pertenece a Microsoft, comprado porque bGitHub va a ser el destino de los desarrolladores para que aprdendan, compartan y trabajen juntos para crear software. 
-Hay maneras de realzar ciertas cosas con GitHub sin terminal, pero son bastante limitadas.
